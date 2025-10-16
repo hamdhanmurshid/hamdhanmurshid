@@ -1,29 +1,31 @@
-# 👋 Welcome!
+# 👋 Welcome to ClassicBeatz!
 
-### Creative Graphic Designer | Front-End Developer | UCSC Student
+### Creative Graphic Designer | Full-Stack Developer | Digital Innovator
 
 ---
 
 ## 🎨 About Me
 
-Hi, I’m Hamdhan Murshid — Creative Graphic Designer | Front-End Developer | Student of UCSC Driven by a passion for merging aesthetics with technology, I specialize in crafting intuitive digital experiences and standout brand visuals. My journey combines hands-on design expertise and front-end development skills, all fueled by curiosity and a relentless pursuit of innovation.
+Hi, I’m **ClassicBeatz** — a Creative Graphic Designer and Full-Stack Developer passionate about merging **aesthetics with technology**. I specialize in crafting **intuitive digital experiences**, vibrant brand visuals, and interactive web solutions.  
+
+Driven by curiosity and innovation, I combine design expertise with front-end & back-end development skills to bring ideas to life.  
 
 ---
 
 ## 💼 What I Do
 
-- **Graphic Design:** Brand identity, UI/UX, posters, digital assets -
-- **Front-End Development:** HTML, CSS, JavaScript, React -
-- **Creative Tools:** Figma, Adobe XD, Photoshop, Illustrator
-- **Back-End Development:** Node.js, Express, MongoDB, Firebase, API integration
+- **Graphic Design:** Brand Identity, UI/UX, Posters, Digital Assets  
+- **Front-End Development:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Back-End Development:** Node.js, Express, MongoDB, Firebase, API Integration  
+- **Creative Tools:** Figma, Adobe XD, Photoshop, Illustrator, Canva  
 
 ---
 
 ## 🚀 Projects & Highlights
 
-- 🌱 **Currently mastering:** Advanced Front-End & Backend Development  
-- 🎯 **Career goal:** Full-Stack Creative Developer  
-- 🤝 **Open to:** Collaboration on creative coding and design projects  
+- 🌱 **Currently Learning:** Advanced Full-Stack & Creative Automation  
+- 🎯 **Career Goal:** Full-Stack Creative Developer & Digital Strategist  
+- 🤝 **Open To:** Collaboration on web, design, marketing automation & creative projects  
 
 ---
 
@@ -35,25 +37,27 @@ Hi, I’m Hamdhan Murshid — Creative Graphic Designer | Front-End Developer | 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![classicbeatz1111's GitHub Stats](https://github-readme-stats.vercel.app/api?username=classicbeatz1111&show_icons=true&theme=material-palenight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=classicbeatz1111&layout=compact&theme=material-palenight)
-
+![ClassicBeatz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=classicbeatz1111&show_icons=true&theme=material-palenight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=classicbeatz1111&layout=compact&theme=material-palenight)
 
 ---
 
 ## 🌐 Connect With Me
 
-- **Portfolio:** https://hamdhanmurshid.netlify.app/ 
-- **Instagram:** https://www.instagram.com/cloudgrafix/
-- **Instagram:** https://www.instagram.com/classicbeatzofficialz/
-- **LinkedIn:** https://www.linkedin.com
-- **Email:** classicbeatz1111@gmail.com
+- **Portfolio:** [https://classicbeatz.netlify.app](https://classicbeatz.netlify.app)  
+- **Instagram (Designs):** [@cloudgrafix](https://www.instagram.com/cloudgrafix/)  
+- **Instagram (Agency):** [@classicbeatzofficialz](https://www.instagram.com/classicbeatzofficialz/)  
+- **LinkedIn:** [ClassicBeatz](https://www.linkedin.com)  
+- **Email:** classicbeatzofficialx@gmail.com  
 
 ---
 
-> *“Design is intelligence made visible. Code brings it to life.”*
+> *“Design that converts. Marketing that connects ”* 🚀
