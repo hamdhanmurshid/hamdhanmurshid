@@ -1,12 +1,12 @@
 # 👋 Welcome to ClassicBeatz!
 
-### Creative Graphic Designer | Full-Stack Developer | Digital Innovator
+### Creative Graphic Designer | Full-Stack Developer | Digital Marketer
 
 ---
 
 ## 🎨 About Me
 
-Hi, I’m **ClassicBeatz** — a Creative Graphic Designer and Full-Stack Developer passionate about merging **aesthetics with technology**. I specialize in crafting **intuitive digital experiences**, vibrant brand visuals, and interactive web solutions.  
+Hi, I’m **Hamdhan** — a Creative Graphic Designer and Full-Stack Developer passionate about merging **aesthetics with technology**. I specialize in crafting **intuitive digital experiences**, vibrant brand visuals, and interactive web solutions.  
 
 Driven by curiosity and innovation, I combine design expertise with front-end & back-end development skills to bring ideas to life.  
 
