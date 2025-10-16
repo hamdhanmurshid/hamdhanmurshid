@@ -15,6 +15,7 @@ Hi, I’m Hamdhan Murshid — Creative Graphic Designer | Front-End Developer | 
 - **Graphic Design:** Brand identity, UI/UX, posters, digital assets -
 - **Front-End Development:** HTML, CSS, JavaScript, React -
 - **Creative Tools:** Figma, Adobe XD, Photoshop, Illustrator
+- **Back-End Development:** Node.js, Express, MongoDB, Firebase, API integration
 
 ---
 
