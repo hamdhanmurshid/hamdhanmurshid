@@ -19,8 +19,9 @@ Graphic Designer • Web Developer • Digital Marketer
 
 ### 🎓 Growth & Goals
 
-- 🌱 Currently Learning: **Advanced Full-Stack & Creative Automation**  
-- 🎯 Career Goal: **Full-Stack Creative Developer & Digital Strategist**  
+- 🎓 Currently Pursuing: **Bachelor of Information Technology (BIT)** @ **UCSC**  
+- 🌱 Currently Learning: **Advanced Full-Stack Development & Creative Automation**  
+- 🎯 Career Goal: **Full-Stack Developer & AI Engineer**  
 - 🤝 Open To: **Collaboration on web, design, marketing automation & creative projects**
 
 ---
@@ -31,7 +32,7 @@ Graphic Designer • Web Developer • Digital Marketer
 |--------------|------------------|
 | Branding & Identity | Photoshop, Illustrator, Figma |
 | Web Design & Development | HTML, CSS, JS, PHP, WordPress |
-| Digital Marketing | SMM, SEO, Email Marketing, SEM |
+| Digital Marketing | Meta Ads, SEO, Email Marketing |
 
 ---
 
@@ -45,7 +46,9 @@ Graphic Designer • Web Developer • Digital Marketer
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,figma,photoshop,illustrator,github,react,nodejs,mysql,python,ai" />
+  <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,figma,photoshop,illustrator,github,react,nodejs,mysql,python,ai" height="45" alt="Tech Stack" />
+  </marquee>
 </p>
 
 ---
