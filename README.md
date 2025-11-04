@@ -1,63 +1,88 @@
-# 👋 Welcome to ClassicBeatz!
+<h1 align="center">👋 Hey, I'm Hamdhan Murshid</h1>
+<h3 align="center">🚀 Founder of <a href="https://classicbeatz.netlify.app" target="_blank">ClassicBeatz</a></h3>
 
-### Creative Graphic Designer | Full-Stack Developer | Digital Marketer
-
----
-
-## 🎨 About Me
-
-Hi, I’m **Hamdhan** — a Creative Graphic Designer and Full-Stack Developer passionate about merging **aesthetics with technology**. I specialize in crafting **intuitive digital experiences**, vibrant brand visuals, and interactive web solutions.  
-
-Driven by curiosity and innovation, I combine design expertise with front-end & back-end development skills to bring ideas to life.  
-
----
-
-## 💼 What I Do
-
-- **Graphic Design:** Brand Identity, UI/UX, Posters, Digital Assets  
-- **Front-End Development:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Back-End Development:** Node.js, Express, MongoDB, Firebase, API Integration  
-- **Creative Tools:** Figma, Adobe XD, Photoshop, Illustrator, Canva  
-
----
-
-## 🚀 Projects & Highlights
-
-- 🌱 **Currently Learning:** Advanced Full-Stack & Creative Automation  
-- 🎯 **Career Goal:** Full-Stack Creative Developer & Digital Strategist  
-- 🤝 **Open To:** Collaboration on web, design, marketing automation & creative projects  
-
----
-
-## 🖥️ Tools & Software
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+Graphic Designer • Web Developer • Digital Marketer  
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 🌟 About Me
 
-![ClassicBeatz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=classicbeatz1111&show_icons=true&theme=material-palenight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=classicbeatz1111&layout=compact&theme=material-palenight)
-
----
-
-## 🌐 Connect With Me
-
-- **Portfolio:** [https://classicbeatz.netlify.app](https://classicbeatz.netlify.app)  
-- **Instagram (Designs):** [@cloudgrafix](https://www.instagram.com/cloudgrafix/)  
-- **Instagram (Agency):** [@classicbeatzofficialz](https://www.instagram.com/classicbeatzofficialz/)  
-- **LinkedIn:** [ClassicBeatz](https://www.linkedin.com)  
-- **Email:** classicbeatzofficialx@gmail.com  
+- Passionate about creativity & technology  
+- Leading **ClassicBeatz**, a creative agency helping brands grow with design and AI-powered marketing  
+- Based in **Sri Lanka**  
+- Love building digital brands that actually perform  
+- Mission: **Turn ideas into impact**  
 
 ---
 
-> *“Design that converts. Marketing that connects ”* 🚀
+### 🎓 Growth & Goals
+
+- 🌱 Currently Learning: **Advanced Full-Stack & Creative Automation**  
+- 🎯 Career Goal: **Full-Stack Creative Developer & Digital Strategist**  
+- 🤝 Open To: **Collaboration on web, design, marketing automation & creative projects**
+
+---
+
+### 💼 What I Do
+
+| 💡 Expertise | 🚀 Tools / Skills |
+|--------------|------------------|
+| Branding & Identity | Photoshop, Illustrator, Figma |
+| Web Design & Development | HTML, CSS, JS, PHP, WordPress |
+| Digital Marketing | SMM, SEO, Email Marketing, SEM |
+
+---
+
+### 🔥 My Projects
+- [classicbeatz.netlify.app](https://classicbeatz.netlify.app)
+- Smart Client Portal *(coming soon)*  
+- Social Media Campaigns for Local Startups  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,figma,photoshop,illustrator,github,react,nodejs,mysql,python,ai" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamdhanMurshid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamdhanMurshid&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/classicbeatzofficialz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@classicbeatzofficialz-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://web.facebook.com/classicbeatzofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-ClassicBeatzOfficial-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+  <a href="https://wa.me/+94741197336" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <a href="mailto:classicbeatz1111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-classicbeatz1111@gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+### ✨ Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70px">
+</p>
+
+<p align="center">
+  <i>“Design That Converts. Marketing That Connects”</i>
+</p>
