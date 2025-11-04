@@ -7,7 +7,7 @@ Graphic Designer • Web Developer • Digital Marketer
 
 ---
 
-### 🌟 About Me
+### About Me
 
 - Passionate about creativity & technology  
 - Leading **ClassicBeatz**, a creative agency helping brands grow with design and AI-powered marketing  
@@ -17,18 +17,18 @@ Graphic Designer • Web Developer • Digital Marketer
 
 ---
 
-### 🎓 Growth & Goals
+### Growth & Goals
 
-- 🎓 Currently Pursuing: **Bachelor of Information Technology (BIT)** @ **UCSC**  
-- 🌱 Currently Learning: **Advanced Full-Stack Development & Creative Automation**  
-- 🎯 Career Goal: **Full-Stack Developer & AI Engineer**  
-- 🤝 Open To: **Collaboration on web, design, marketing automation & creative projects**
+- Currently Pursuing: **Bachelor of Information Technology (BIT)** @ **UCSC**  
+- Currently Learning: **Advanced Full-Stack Development & Creative Automation**  
+- Career Goal: **Full-Stack Developer & AI Engineer**  
+- Open To: **Collaboration on web, design, marketing automation & creative projects**
 
 ---
 
-### 💼 What I Do
+### What I Do
 
-| 💡 Expertise | 🚀 Tools / Skills |
+| Expertise | Tools / Skills |
 |--------------|------------------|
 | Branding & Identity | Photoshop, Illustrator, Figma |
 | Web Design & Development | HTML, CSS, JS, PHP, WordPress |
@@ -36,14 +36,14 @@ Graphic Designer • Web Developer • Digital Marketer
 
 ---
 
-### 🔥 My Projects
+### My Projects
 - [classicbeatz.netlify.app](https://classicbeatz.netlify.app)
 - Smart Client Portal *(coming soon)*  
 - Social Media Campaigns for Local Startups  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite">
@@ -53,7 +53,7 @@ Graphic Designer • Web Developer • Digital Marketer
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamdhanMurshid&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -62,7 +62,7 @@ Graphic Designer • Web Developer • Digital Marketer
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/classicbeatzofficialz" target="_blank">
@@ -81,7 +81,7 @@ Graphic Designer • Web Developer • Digital Marketer
 
 ---
 
-### ✨ Fun Animation
+### Fun
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70px">
 </p>
